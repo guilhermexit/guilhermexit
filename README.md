@@ -24,5 +24,5 @@ Olá! Me chamo Guilherme Martins!
    <a href="https://www.linkedin.com/in/guilherme-martins-nascimento-71a06920b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <div>
-  <img align="center" alt="Ephraim Winslow" src="https://cdn.discordapp.com/attachments/592519609803079690/979547176034246736/af335a9e567d863a4e769a081dc130e0.gif">
+  <img align="center" alt="Ephraim Winslow" src="https://c.tenor.com/_OpQkML3OZQAAAAd/hi-dev-zzzz.gif">
  </div>

@@ -1,9 +1,9 @@
 
-   Olá! Me chamo Guilherme Martins! 
-- 🔭 Atualmente procurando por trabalho! <br>
-- 🌱 Estudando HTML/CSS/JS, Javinha e Python! <br>
+   Olá! me chamo Guilherme Martins! 
+- 🔭 atualmente procurando por trabalho! <br>
+- 🌱 estudando HTML/CSS/JS, Javinha e Python! <br>
 - 📫 e-mail: guilherme252004@outlook.com <br>
-- 🐱‍🐉 Pronomes: Ele/Dele <b> 
+- 🐱‍🐉 pronomes: ele/Dele <b> 
 
 <div align="center">
   <a href="https://github.com/guilhermexit">

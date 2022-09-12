@@ -6,7 +6,7 @@
 <div align="left">
   <a href="https://github.com/guilhermexit">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=guilhermexit&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermexit&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermexit&layout=compact&langs_count=7&theme=solarized-light"/>
 </div>
 
 

@@ -19,7 +19,4 @@
   <img align="left" alt="xit-Python" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <a href="https://www.linkedin.com/in/guilherme-martins-nascimento-71a06920b/" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<br>
-<div align="left">
-  <img align="center" alt="macaco" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
-</div>
+

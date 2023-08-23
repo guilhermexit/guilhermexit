@@ -1,7 +1,7 @@
 
    Olá! me chamo Guilherme Martins! 
-- 🔭 atualmente procurando por trabalho! <br>
-- 🌱 estudando HTML/CSS/JS, ReactJS, Java e Python! <br>
+Atualmente procurando por trabalho! <br>
+Estudando HTML/CSS/JS, ReactJS, Java e Python! <br>
 
 <div align="left">
   <a href="https://github.com/guilhermexit">
